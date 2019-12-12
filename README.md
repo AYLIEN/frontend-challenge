@@ -1,45 +1,19 @@
 # Frontend Challenge
 
-The purpose of this challenge is to evaluate your domain in front end development. This is a test for all levels, so we don't expect you to complete 100% or use all of the above front end concepts. We want to know about your knowledge and how you develop.
-
-We hope you will build a SPA with Frameworks, JavaScript libraries and, if you deem it necessary, data stream architectures of your choice. In addition, we would like you to write tests.
-
-We want to see readability and its code design, good development practices, JavaScript Design Patterns used and their entire work process. You are free to create, commit and organize your project.
+The purpose of this challenge is to evaluate your knowledge in the domain of front-end development. We need you to build a Single Page Application with JavaScript frameworks and libraries and, if you deem necessary, data stream libraries of your choice. In addition, we would like you to write some tests. We are looking for a readable, easy to understand code that follows best practices and design patterns.
 
 ## The challenge
-You should develop a real-time Cluster browser. Cluster is a groups of related stories. You should repesent a cluster list and update the cluster list if new clusters are available. it would be great if provide at least four filters for clusters. You should use [News API endpoint](https://docs.aylien.com/newsapi/endpoints/#clusters) for this project.
+We need you to develop a real-time News Explorer. Clusters are groups of related stories (news articles) which you can receive from the News API. You should repesent a cluster list and update it when new clusters are available or there is any change to previously loaded clusters. It would be great if you could provide at least one type of filter or search as well. You should use the [News API](https://docs.aylien.com/newsapi/endpoints/#clusters) to access the clusters. You can sign up for a trial account [here](https://newsapi.aylien.com/) and use your credentials for this.
+
+The endpoints you will be working with are the `/clusters` endpoint and `/stories` (optional).
 
 <p align="center">
   <img src="https://github.com/AYLIEN/frontend-challenge/blob/master/prototype.jpeg?raw=true">
 </p>
 
-Create a project to present components with the style you want. The prototype is just a suggestion, have the freedom to use your creativity at will!
+Create a project to present components with the style you want. The prototype is just a suggestion, have the freedom to use your creativity at will! You are free in your choice of frameworks and libraries, but we :heart: React.
 
-The form of componentization is free and you can prioritize parts that best demonstrate your front end knowledge. Automated testing, project documentation and components are differential. Document everything you deem necessary, including the motivations of the different libraries and frameworks used.
+We would like you to identify tasks that are required, provide a time estimation for all of these tasks before you start working on them. If you can split these tasks into smaller items, also share those, please. It’s up to you how much time you invest, but keep in mind that we expect some meaningful contribution and also that it should be possible to review your solution in a reasonable amount of time, so please provide instructions on how to get up and running with your solution and test it. Your solution is expected as a zip file, but please include your .git directory, we are interested in the steps of your development, not just the end result.
 
-## What we recommend
+We forged this exercise with great care and enthusiasm. Even if you decide not to submit your solution, we appreciate your feedback. What was the most enjoyable? What was unreasonably annoying? Let us know, so we can improve.
 
-Using React is not required, but we :green_heart: React 
-
-Give priority to solving problems with ECMAScript 6's own functions.
-
-## What we will evaluate
-
-- Good programming practices
-
-- Domain of Frameworks and ES6
-
-- Componentization and organization of your project
-
-- Project documentation and justifications of technical choices
-
-- The development process with Git
-
-## The presentation of the challenge
-- Create a repository for the project in your personal GitHub account
-
-- You can use some Boilerplate to create the SPA, but make a separate Commit with the additions
-
-- Create a README.md with instructions for project execution
-
-Finally send us the repository link.
