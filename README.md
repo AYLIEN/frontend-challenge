@@ -9,6 +9,10 @@ We want to see readability and its code design, good development practices, Java
 ## The challenge
 You should develop a real-time Cluster browser. Cluster is a groups of related stories. You should repesent a cluster list and update the list if new cluster are available. it would be great if provide at least four filters for clusters. You should use [News API endpoint](https://docs.aylien.com/newsapi/endpoints/#clusters) for this project.
 
+<p align="center">
+  <img src="https://github.com/AYLIEN/frontend-challenge/blob/master/prototype.jpeg?raw=true">
+</p>
+
 Create a project to present components with the style you want. The prototype is just a suggestion, have the freedom to use your creativity at will!
 
 The form of componentization is free and you can prioritize parts that best demonstrate your front end knowledge. Automated testing, project documentation and components are differential. Document everything you deem necessary, including the motivations of the different libraries and frameworks used.
