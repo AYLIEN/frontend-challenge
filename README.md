@@ -14,7 +14,9 @@ Create a project to present components with the style you want. The prototype is
 The form of componentization is free and you can prioritize parts that best demonstrate your front end knowledge. Automated testing, project documentation and components are differential. Document everything you deem necessary, including the motivations of the different libraries and frameworks used.
 
 ## What we recommend
-Using React is not required, but we love React;
+
+Using React is not required, but we :green_heart: React 
+
 Give priority to solving problems with ECMAScript 6's own functions.
 
 ## What we will evaluate
