@@ -36,4 +36,10 @@ Give priority to solving problems with ECMAScript 6's own functions.
 - The development process with Git
 
 ## The presentation of the challenge
-Create a repository for the project in your personal GitHub account.You can use some Boilerplate to create the SPA, but make a separate Commit with the additions; Create a README.md with instructions for project execution. Finally send us the repository link.
+- Create a repository for the project in your personal GitHub account
+
+- You can use some Boilerplate to create the SPA, but make a separate Commit with the additions
+
+- Create a README.md with instructions for project execution
+
+Finally send us the repository link.
