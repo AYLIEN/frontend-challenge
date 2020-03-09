@@ -1,0 +1,3931 @@
+{
+  "stories": [
+    {
+      "id": 48455928,
+      "title": "Varios heridos por un tirador activo en la Estación Naval de Pensacola",
+      "body": "Las autoridades reportaron esta mañana un tirador activo en la Estación Naval de Pensacola, en Florida.\n\n                        \n                        \n                            La portavoz de la Policía del condado de Escambia, Amber Southard, confirmó a The Associated Press que el sujeto está muerto luego de abrir fuego y herir a varias personas.\n\n                            Varios medios de comunicación han informado que al menos diez personas fueron trasladadas a hospitales del área.\n\n                            Mientras, el portavoz de la policía de Pensacola, Mike Wood, confirmó que la policía respondió al tirador activo.\n\n                            También trascendió que la base está cerrada.\n\n                            Mantente conectado a endi.com para la actualización de esta historia.",
+      "summary": {
+        "sentences": [
+          "Las autoridades reportaron esta mañana un tirador activo en la Estación Naval de Pensacola, en Florida.",
+          "La portavoz de la Policía del condado de Escambia, Amber Southard, confirmó a The Associated Press que el sujeto está muerto luego de abrir fuego y herir a varias personas.",
+          "Varios medios de comunicación han informado que al menos diez personas fueron trasladadas a hospitales del área.",
+          "Mientras, el portavoz de la policía de Pensacola, Mike Wood, confirmó que la policía respondió al tirador activo."
+        ]
+      },
+      "source": {
+        "id": 978,
+        "name": "El Nuevo Dia",
+        "home_page_url": "http://www.elnuevodia.com/",
+        "domain": "elnuevodia.com",
+        "locations": [
+          {
+            "country": "PR"
+          }
+        ],
+        "scopes": [
+          {
+            "country": "PR",
+            "level": "national"
+          }
+        ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 13010,
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 2647,
+              "country": "VE",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 13,
+              "country": "PR",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 15204,
+              "country": "ES",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 8774,
+              "country": "US",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 9895,
+              "country": "CL",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 6006,
+              "country": "AR",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 4694,
+              "country": "CO",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 915,
+              "country": "PA",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 975,
+              "country": "DO",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 4635,
+              "country": "MX",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 649,
+              "country": "CU",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 6816,
+              "country": "PE",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            },
+            {
+              "rank": 47997,
+              "country": "DE",
+              "fetched_at": "2019-06-06T16:40:51Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 951478,
+        "name": "Por Servicios"
+      },
+      "entities": {
+        "title": [],
+        "body": [
+          {
+            "text": "Florida",
+            "score": 0.9988399147987366,
+            "types": [
+              "Location",
+              "AdministrativeRegion",
+              "PopulatedPlace",
+              "Region",
+              "Place"
+            ],
+            "links": {
+              "dbpedia": "http://es.dbpedia.org/resource/Florida"
+            },
+            "indices": [
+              [
+                95,
+                101
+              ]
+            ]
+          },
+          {
+            "text": "The Associated Press",
+            "score": 1.0,
+            "types": [
+              "Organisation",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://es.dbpedia.org/resource/Associated_Press"
+            },
+            "indices": [
+              [
+                261,
+                280
+              ]
+            ]
+          },
+          {
+            "text": "Pensacola",
+            "score": 0.9978556036949158,
+            "types": [
+              "Location",
+              "AdministrativeRegion",
+              "PopulatedPlace",
+              "Region",
+              "Place",
+              "Person"
+            ],
+            "links": {
+              "dbpedia": "http://es.dbpedia.org/resource/Pensacola"
+            },
+            "indices": [
+              [
+                81,
+                89
+              ],
+              [
+                566,
+                574
+              ]
+            ]
+          },
+          {
+            "text": "Estación Naval de Pensacola",
+            "types": [
+              "Place"
+            ],
+            "indices": [
+              [
+                63,
+                89
+              ]
+            ]
+          },
+          {
+            "text": "También",
+            "types": [
+              "Place"
+            ],
+            "indices": [
+              [
+                670,
+                676
+              ]
+            ]
+          },
+          {
+            "text": "Mantente",
+            "types": [
+              "Place"
+            ],
+            "indices": [
+              [
+                744,
+                751
+              ]
+            ]
+          },
+          {
+            "text": "Mike Wood",
+            "types": [
+              "Person"
+            ],
+            "indices": [
+              [
+                577,
+                585
+              ]
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "Naval",
+        "Estación",
+        "Pensacola",
+        "tirador",
+        "cerrada",
+        "está",
+        "base",
+        "trascendió",
+        "Florida",
+        "También",
+        "portavoz",
+        "Mantente",
+        "respondió",
+        "activo",
+        "personas",
+        "Wood",
+        "Mike",
+        "Estación",
+        "Amber",
+        "Mientras",
+        "área",
+        "The Associated Press",
+        "medios de comunicación"
+      ],
+      "hashtags": [
+        "#Pensacola",
+        "#Florida",
+        "#AssociatedPress",
+        "#MedioDeComunicación"
+      ],
+      "characters_count": 813,
+      "words_count": 107,
+      "sentences_count": 6,
+      "paragraphs_count": 8,
+      "categories": [
+        {
+          "id": "IAB12-3",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.5,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB12-3",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB12"
+          }
+        },
+        {
+          "id": "IAB14-6",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.26,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB14-6",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB14"
+          }
+        },
+        {
+          "id": "IAB2-4",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.08,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB2-4",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB2"
+          }
+        },
+        {
+          "id": "IAB12",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.07,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB12"
+          }
+        },
+        {
+          "id": "IAB14",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.06,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB14"
+          }
+        },
+        {
+          "id": "IAB2",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.06,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB2"
+          }
+        },
+        {
+          "id": "02003000",
+          "taxonomy": "iptc-subjectcode",
+          "level": 2,
+          "score": 0.18,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/02003000",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/02000000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [
+          {
+            "count": 30,
+            "fetched_at": "2019-12-07T12:25:09Z"
+          },
+          {
+            "count": 30,
+            "fetched_at": "2019-12-07T06:25:31Z"
+          },
+          {
+            "count": 20,
+            "fetched_at": "2019-12-07T00:26:04Z"
+          },
+          {
+            "count": 93,
+            "fetched_at": "2019-12-06T18:26:36Z"
+          }
+        ],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": [
+          {
+            "count": 0,
+            "fetched_at": "2019-12-07T09:15:19Z"
+          },
+          {
+            "count": 0,
+            "fetched_at": "2019-12-07T00:19:37Z"
+          },
+          {
+            "count": 0,
+            "fetched_at": "2019-12-06T18:22:51Z"
+          }
+        ]
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://rec-end.elnuevodia.com/images/tn/0/122/1920/1079/900/447/2019/12/06/carlights.png",
+          "format": "JPEG",
+          "content_length": 26026,
+          "width": 900,
+          "height": 447
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "negative",
+          "score": 0.611796
+        },
+        "body": {
+          "polarity": "negative",
+          "score": 0.644767
+        }
+      },
+      "language": "es",
+      "published_at": "2019-12-06T14:20:06Z",
+      "links": {
+        "permalink": "https://www.elnuevodia.com/corresponsalias/florida/nota/variosheridosporuntiradoractivoenlaestacionnavaldepensacola-2533531/",
+        "related_stories": "/related_stories?story_id=48455928",
+        "coverages": "/coverages?story_id=48455928",
+        "clusters": "/clusters?id[]=30200648"
+      },
+      "clusters": [
+        30200648
+      ],
+      "translations": {
+        "en": {
+          "title": "Several injured by an active shooter at the Naval Station in Pensacola",
+          "body": "The authorities reported an active shooter at the Naval Station in Pensacola, Florida this morning.\n\n                        \n                        \nThe spokesperson for the Scottish County Police, Amber Southard, confirmed to The Associated Press that the subject is dead after opening fire and wounding several people.\n\nSeveral media have reported that at least ten people were transferred to hospitals in the area.\n\nMeanwhile, Pensacola police spokesman Mike Wood confirmed that the police responded to the active shooter.\n\nIt also transpired that the base is closed.\n\nKeep connected to endi.com for the update of this story."
+        }
+      }
+    },
+    {
+      "id": 47867739,
+      "title": "Dopo una chemioterapia",
+      "body": "Mio padre, operato di tumore al colon a inizio estate, ha poi fatto cicli di chemioterapia e altri farmaci a bersaglio molecolare. Ora sta bene e le terapie sono da poco finite. Ci chiediamo se sia il caso di fargli fare il vaccino antinfluenzale: ci sono controindicazioni? Dobbiamo chiedere all’oncologo?\n\n\n\n\t\n\n\nRisponde Giordano Beretta, presidente eletto dell’Associazione Italiana di Oncologia Medica (Aiom) e responsabile dell’Oncologia Medica di Humanitas Gavazzeni Bergamo\n\n\n\n\n\t\n\t\t\n\t\t\t\n\n\t\t\t\n\t\t\n\t\n\n\nIl vaccino antinfluenzale Ã¨ indicato per tutti i soggetti che desiderano evitare l’influenza e che non abbiano specifiche controindicazioni. Ã offerto gratuitamente a chi Ã¨ a maggior rischio di complicanze: bambini, persone d’etÃ  superiore a 65 anni e soggetti che soffrono di patologie croniche, tra i quali i pazienti oncologici. E la gratuitÃ  si estende a tutti gli operatori sanitari e, con alcune differenze nei diversi Sistemi Sanitari Regionali, ai familiari delle persone a rischio. Il costo di una dose di vaccino, quando non gratuito, Ã¨ di circa 20 euro e la vaccinazione puÃ² essere effettuata presso i servizi vaccinali delle ASL o presso i medici di medicina generale. \n\n\n\n\n\n\nVaccini sicuri, pochi e poco probabili \nVeniamo ai suoi quesiti: i vaccini antinfluenzali autorizzati sono sicuri e sottoposti a controlli accurati. Gli effetti collaterali piÃ¹ comuni sono reazioni locali (lieve dolore e arrossamento nel punto di iniezione) e, meno frequenti febbre, dolori muscolari o articolari e mal di testa, generalmente di scarsa entitÃ  e che si risolvono entro uno o due giorni. Raramente si possono verificare allergie, mentre reazioni piÃ¹ gravi sono segnalate (non sempre legate al vaccino) solo in uno o due soggetti ogni milione di vaccinati. \n\n\n\n\n\n\nParlare con il medico per valutare il singolo caso\nAnche nei malati oncologici la vaccinazione Ã¨ indicata, sicura, minimamente invasiva e puÃ² essere somministrata anche contemporaneamente ad altri eventuali vaccini. Va utilizzata sia nei pazienti che hanno giÃ  concluso le cure sia in quelli in corso di trattamento attivo, per i quali si suggerisce di effettuarla dopo circa due settimane dal ciclo di terapia per consentire una migliore risposta immunitaria. Ci sono, come sempre, delle controindicazioni: in chi, ad esempio, ha avuto precedenti reazioni di tipo anafilattico ad uno dei componenti del vaccino. Oppure in presenza di una malattia acuta di medio-grave entitÃ  Ã¨ bene rinviare l’immunizzazione antinfluenzale a quando il paziente si sarÃ  rimesso. Per questo Ã¨ bene parlarne sia con l’oncologo che con il medico di famiglia, in modo da valutare al meglio il singolo caso, che potranno consigliarvi anche sulle principali norme igieniche per prevenire l’influenza che si scatena nel periodo autunnale e invernale: in particolare Ã¨ importante evitare luoghi affollati, seguire un’adeguata igiene delle mani e aerare le stanze dove si soggiorna.La vaccinazione deve solitamente essere effettuata nel periodo autunnale a partire dalla metÃ  di ottobre fino a fine dicembre.\n\n\n\n\n\n\n3 dicembre 2019 (modifica il 3 dicembre 2019 | 12:59)\n\n© RIPRODUZIONE RISERVATA",
+      "summary": {
+        "sentences": [
+          "Ci chiediamo se sia il caso di fargli fare il vaccino antinfluenzale: ci sono controindicazioni?",
+          "Risponde Giordano Beretta, presidente eletto dell’Associazione Italiana di Oncologia Medica (Aiom) e responsabile dell’Oncologia Medica di Humanitas Gavazzeni Bergamo\n\n\n\n\n\t\n\t\t\n\t\t\t\n\n\t\t\t\n\t\t\n\t\n\n\nIl vaccino antinfluenzale Ã¨ indicato per tutti i soggetti che desiderano evitare l’influenza e che non abbiano specifiche controindicazioni.",
+          "Raramente si possono verificare allergie, mentre reazioni piÃ¹ gravi sono segnalate (non sempre legate al vaccino) solo in uno o due soggetti ogni milione di vaccinati.",
+          "Oppure in presenza di una malattia acuta di medio-grave entitÃ  Ã¨ bene rinviare l’immunizzazione antinfluenzale a quando il paziente si sarÃ  rimesso.",
+          "Per questo Ã¨ bene parlarne sia con l’oncologo che con il medico di famiglia, in modo da valutare al meglio il singolo caso, che potranno consigliarvi anche sulle principali norme igieniche per prevenire l’influenza che si scatena nel periodo autunnale e invernale: in particolare Ã¨ importante evitare luoghi affollati, seguire un’adeguata igiene delle mani e aerare le stanze dove si soggiorna.La vaccinazione deve solitamente essere effettuata nel periodo autunnale a partire dalla metÃ  di ottobre fino a fine dicembre."
+        ]
+      },
+      "source": {
+        "id": 7109,
+        "name": "Google News Italia (Italian)",
+        "home_page_url": "http://news.google.it/",
+        "domain": "google.it",
+        "locations": [
+          {
+            "country": "IT"
+          }
+        ],
+        "scopes": [
+          {
+            "country": "IT",
+            "level": "national"
+          }
+        ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 80,
+              "fetched_at": "2019-06-06T17:41:51Z"
+            },
+            {
+              "rank": 3,
+              "country": "IT",
+              "fetched_at": "2019-06-06T17:41:51Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 1839577,
+        "name": "Giodano Beretta"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "chemioterapia",
+            "score": 1.0,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Chemioterapia"
+            },
+            "indices": [
+              [
+                9,
+                21
+              ]
+            ]
+          }
+        ],
+        "body": [
+          {
+            "text": "dolori muscolari",
+            "score": 1.0,
+            "types": [
+              "Disease"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Mialgia"
+            },
+            "indices": [
+              [
+                1486,
+                1501
+              ]
+            ]
+          },
+          {
+            "text": "igiene",
+            "score": 0.9981354475021362,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Igiene"
+            },
+            "indices": [
+              [
+                2891,
+                2896
+              ]
+            ]
+          },
+          {
+            "text": "ASL",
+            "score": 0.9071788787841797,
+            "types": [
+              "Organisation"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Azienda_sanitaria_locale"
+            },
+            "indices": [
+              [
+                1150,
+                1152
+              ]
+            ]
+          },
+          {
+            "text": "Beretta",
+            "score": 0.9564377665519714,
+            "types": [
+              "Agent",
+              "Organisation",
+              "Company"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Fabbrica_d'Armi_Pietro_Beretta"
+            },
+            "indices": [
+              [
+                332,
+                338
+              ]
+            ]
+          },
+          {
+            "text": "oncologo",
+            "score": 1.0,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Oncologia"
+            },
+            "indices": [
+              [
+                297,
+                304
+              ],
+              [
+                2588,
+                2595
+              ]
+            ]
+          },
+          {
+            "text": "Oncologia",
+            "score": 1.0,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Oncologia"
+            },
+            "indices": [
+              [
+                389,
+                397
+              ],
+              [
+                433,
+                441
+              ]
+            ]
+          },
+          {
+            "text": "oncologici",
+            "score": 1.0,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Oncologia"
+            },
+            "indices": [
+              [
+                830,
+                839
+              ],
+              [
+                1850,
+                1859
+              ]
+            ]
+          },
+          {
+            "text": "tumore",
+            "score": 1.0,
+            "types": [
+              "Disease"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Neoplasia"
+            },
+            "indices": [
+              [
+                22,
+                27
+              ]
+            ]
+          },
+          {
+            "text": "effetti collaterali",
+            "score": 0.9965401887893677,
+            "types": [
+              "Disease"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Effetto_collaterale_(medicina)"
+            },
+            "indices": [
+              [
+                1354,
+                1372
+              ]
+            ]
+          },
+          {
+            "text": "i medici",
+            "score": 0.9943802952766418,
+            "types": [
+              "Work",
+              "Product",
+              "TelevisionSeason"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/I_Medici_(serie_televisiva)"
+            },
+            "indices": [
+              [
+                1163,
+                1170
+              ]
+            ]
+          },
+          {
+            "text": "famiglia",
+            "score": 0.9867884516716003,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Famiglia_(tassonomia)"
+            },
+            "indices": [
+              [
+                2618,
+                2625
+              ]
+            ]
+          },
+          {
+            "text": "vaccinazione",
+            "score": 0.9540220499038696,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Vaccinazione"
+            },
+            "indices": [
+              [
+                1081,
+                1092
+              ],
+              [
+                1864,
+                1875
+              ],
+              [
+                2949,
+                2960
+              ]
+            ]
+          },
+          {
+            "text": "dolore",
+            "score": 0.998945415019989,
+            "types": [
+              "Disease"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Dolore"
+            },
+            "indices": [
+              [
+                1414,
+                1419
+              ]
+            ]
+          },
+          {
+            "text": "Mio",
+            "score": 0.5213184952735901,
+            "types": [
+              "FictionalCharacter"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Personaggi_di_To_Love-Ru"
+            },
+            "indices": [
+              [
+                0,
+                2
+              ]
+            ]
+          },
+          {
+            "text": "medicina generale",
+            "score": 1.0,
+            "types": [
+              "Person",
+              "TelevisionSeason",
+              "Agent",
+              "Work",
+              "Product"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Medicina_generale"
+            },
+            "indices": [
+              [
+                1175,
+                1191
+              ]
+            ]
+          },
+          {
+            "text": "invernale",
+            "score": 0.974152684211731,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Inverno"
+            },
+            "indices": [
+              [
+                2805,
+                2813
+              ]
+            ]
+          },
+          {
+            "text": "immunizzazione",
+            "score": 1.0,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Sistema_immunitario"
+            },
+            "indices": [
+              [
+                2481,
+                2494
+              ]
+            ]
+          },
+          {
+            "text": "estate",
+            "score": 1.0,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Estate"
+            },
+            "indices": [
+              [
+                47,
+                52
+              ]
+            ]
+          },
+          {
+            "text": "euro",
+            "score": 0.954286515712738,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Euro"
+            },
+            "indices": [
+              [
+                1071,
+                1074
+              ]
+            ]
+          },
+          {
+            "text": "allergie",
+            "score": 1.0,
+            "types": [
+              "Disease"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Allergia"
+            },
+            "indices": [
+              [
+                1638,
+                1645
+              ]
+            ]
+          },
+          {
+            "text": "febbre",
+            "score": 1.0,
+            "types": [
+              "Disease"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Febbre"
+            },
+            "indices": [
+              [
+                1478,
+                1483
+              ]
+            ]
+          },
+          {
+            "text": "chemioterapia",
+            "score": 0.9944093823432922,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Chemioterapia"
+            },
+            "indices": [
+              [
+                77,
+                89
+              ]
+            ]
+          },
+          {
+            "text": "dell",
+            "score": 0.9963787794113159,
+            "types": [
+              "Agent",
+              "Company",
+              "Organisation"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Dell"
+            },
+            "indices": [
+              [
+                359,
+                362
+              ],
+              [
+                428,
+                431
+              ]
+            ]
+          },
+          {
+            "text": "vaccino",
+            "score": 0.9275189638137817,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Vaccino"
+            },
+            "indices": [
+              [
+                224,
+                230
+              ],
+              [
+                509,
+                515
+              ],
+              [
+                1026,
+                1032
+              ],
+              [
+                1712,
+                1718
+              ],
+              [
+                2389,
+                2395
+              ]
+            ]
+          },
+          {
+            "text": "vaccini",
+            "score": 0.9940012693405151,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Vaccino"
+            },
+            "indices": [
+              [
+                1268,
+                1274
+              ],
+              [
+                1991,
+                1997
+              ]
+            ]
+          },
+          {
+            "text": "farmaci",
+            "score": 0.9997497200965881,
+            "types": [
+              "Person",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Farmaco"
+            },
+            "indices": [
+              [
+                99,
+                105
+              ]
+            ]
+          },
+          {
+            "text": "singolo",
+            "score": 0.9990390539169312,
+            "types": [
+              "Album",
+              "Product"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Singolo_(musica)"
+            },
+            "indices": [
+              [
+                1820,
+                1826
+              ],
+              [
+                2661,
+                2667
+              ]
+            ]
+          },
+          {
+            "text": "Bergamo",
+            "score": 0.9932239055633545,
+            "types": [
+              "Location",
+              "PopulatedPlace",
+              "Place"
+            ],
+            "links": {
+              "dbpedia": "http://it.dbpedia.org/resource/Bergamo"
+            },
+            "indices": [
+              [
+                473,
+                479
+              ]
+            ]
+          },
+          {
+            "text": "Vaccini",
+            "types": [
+              "Place"
+            ],
+            "indices": [
+              [
+                1201,
+                1207
+              ]
+            ]
+          },
+          {
+            "text": "Veniamo",
+            "types": [
+              "Place"
+            ],
+            "indices": [
+              [
+                1241,
+                1247
+              ]
+            ]
+          },
+          {
+            "text": "Parlare",
+            "types": [
+              "Place"
+            ],
+            "indices": [
+              [
+                1782,
+                1788
+              ]
+            ]
+          },
+          {
+            "text": "Risponde Giordano Beretta",
+            "types": [
+              "Person"
+            ],
+            "indices": [
+              [
+                314,
+                338
+              ]
+            ]
+          },
+          {
+            "text": "Aiom",
+            "types": [
+              "Person"
+            ],
+            "indices": [
+              [
+                407,
+                410
+              ]
+            ]
+          },
+          {
+            "text": "Medica di Humanitas Gavazzeni Bergamo",
+            "types": [
+              "Person"
+            ],
+            "indices": [
+              [
+                443,
+                479
+              ]
+            ]
+          },
+          {
+            "text": "Gavazzeni Bergamo",
+            "types": [
+              "Product"
+            ],
+            "indices": [
+              [
+                463,
+                479
+              ]
+            ]
+          },
+          {
+            "text": "Italiana di Oncologia Medica",
+            "types": [
+              "Organisation"
+            ],
+            "indices": [
+              [
+                377,
+                404
+              ]
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "chemioterapia",
+        "vaccino antinfluenzale",
+        "evitare l’influenza",
+        "sono",
+        "vaccino",
+        "reazioni",
+        "bene",
+        "antinfluenzale",
+        "rischio",
+        "soggetti",
+        "l’influenza",
+        "controindicazioni",
+        "evitare",
+        "quando",
+        "entitÃ",
+        "Vaccini",
+        "singolo",
+        "sempre",
+        "medico",
+        "valutare",
+        "dolori muscolari",
+        "igiene",
+        "ASL",
+        "Beretta",
+        "colon",
+        "oncologo",
+        "Oncologia",
+        "oncologici",
+        "tumore",
+        "effetti collaterali",
+        "i medici",
+        "2019",
+        "famiglia",
+        "vaccinazione",
+        "risposta immunitaria",
+        "dolore",
+        "Mio",
+        "medicina generale",
+        "invernale",
+        "immunizzazione",
+        "estate",
+        "euro",
+        "allergie",
+        "febbre",
+        "migliore",
+        "dell",
+        "vaccini",
+        "farmaci",
+        "iniezione",
+        "Bergamo"
+      ],
+      "hashtags": [
+        "#Oncologia",
+        "#Vaccino",
+        "#Vaccinazione",
+        "#Chemioterapia",
+        "#Dell",
+        "#Singolo",
+        "#2019",
+        "#PersonaggiDiToLoveRu",
+        "#Neoplasia",
+        "#Colon",
+        "#Estate",
+        "#Farmaco",
+        "#FabbricaDArmiPietroBeretta",
+        "#Bergamo",
+        "#Euro",
+        "#ASL",
+        "#AziendaSanitariaLocale",
+        "#IMedici",
+        "#MedicinaGenerale",
+        "#EffettoCollaterale",
+        "#Dolore",
+        "#Iniezione",
+        "#Febbre",
+        "#Mialgia",
+        "#Allergia",
+        "#BAFTAAllaMiglioreAttriceProtagonista",
+        "#RispostaImmunitaria",
+        "#SistemaImmunitario",
+        "#Famiglia",
+        "#Inverno",
+        "#Igiene"
+      ],
+      "characters_count": 3159,
+      "words_count": 476,
+      "sentences_count": 18,
+      "paragraphs_count": 16,
+      "categories": [
+        {
+          "id": "IAB7",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.54,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB7"
+          }
+        },
+        {
+          "id": "IAB7-15",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.24,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB7-15",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB7"
+          }
+        },
+        {
+          "id": "07001000",
+          "taxonomy": "iptc-subjectcode",
+          "level": 2,
+          "score": 0.3,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/07001000",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/07000000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": [
+          {
+            "count": 0,
+            "fetched_at": "2019-12-05T00:15:41Z"
+          },
+          {
+            "count": 0,
+            "fetched_at": "2019-12-04T18:19:20Z"
+          },
+          {
+            "count": 0,
+            "fetched_at": "2019-12-04T09:25:59Z"
+          }
+        ]
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images2.corriereobjects.it/methode_image/socialshare/2019/11/22/c19a7404-14f3-11ea-b557-51f830ff2b1f.jpg",
+          "format": "JPEG",
+          "content_length": 24645,
+          "width": 656,
+          "height": 490
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.524448
+        },
+        "body": {
+          "polarity": "neutral",
+          "score": 0.586114
+        }
+      },
+      "language": "it",
+      "published_at": "2019-12-04T08:41:40Z",
+      "links": {
+        "permalink": "https://news.google.com/__i/rss/rd/articles/CBMinwFodHRwczovL3d3dy5jb3JyaWVyZS5pdC9zYWx1dGUvc3BvcnRlbGxvX2NhbmNyby8xOV9kaWNlbWJyZV8wMy9kb3BvLWNoZW1pb3RlcmFwaWEtc2ktcHVvLWZhcmUtdmFjY2luby1hbnRpbmZsdWVuemFsZS1hOWY5ZWUzNi0wZDI1LTExZWEtOGZiNS0wMDg3NDk4MjRjOGQuc2h0bWzSAaIBaHR0cHM6Ly93d3cuY29ycmllcmUuaXQvc2FsdXRlL3Nwb3J0ZWxsb19jYW5jcm8vMTlfZGljZW1icmVfMDMvZG9wby1jaGVtaW90ZXJhcGlhLXNpLXB1by1mYXJlLXZhY2Npbm8tYW50aW5mbHVlbnphbGUtYTlmOWVlMzYtMGQyNS0xMWVhLThmYjUtMDA4NzQ5ODI0YzhkX2FtcC5odG1s?oc=5",
+        "related_stories": "/related_stories?story_id=47867739",
+        "coverages": "/coverages?story_id=47867739",
+        "clusters": "/clusters?id[]=29783373"
+      },
+      "clusters": [
+        29783373
+      ],
+      "translations": {
+        "en": {
+          "title": "After chemotherapy",
+          "body": "My father, who had cancer in the early summer, then did chemotherapy and other molecular-related drugs. Now it's okay and the treatments are just over. We are asking ourselves whether it is the case that we should make it an anti-flu vaccine: are there any counter-indications? Should we ask the monsieur?\n\n\n\n\t\n\n\nReply to Giordano Beretta, President-elect of the Italian Association of Oncology Medicadia (Aiom) and responsible for the Medical Oncology of Humanitarianists Ghazzani Bergamo\n\n\n\n\n\t\n\t\t\n\t\t\t\n\n\t\t\t\n\t\t\n\t\n\n\nThe anti-fluenza vaccine is indicated for all those who wish to avoid influenza and who do not have specific counter-indications. • free of charge to those with greater risk of complications: children, people over 65 years of age and those suffering from chronic diseases, including cancer patients. And free of charge is extended to all health workers and, with some differences in the different regional health systems, to the families of the people at risk. The cost of a vaccine, when not free, is approximately EUR 20 and vaccination can be carried out at the ASL vaccine services or in general medicine.\n\n\n\n\n\n\nSafe, unlikely vaccines\nLet us come to your questions: the authorised flu vaccines are safe and subject to careful control. The most common side effects are local reactions (always pain and rheumatization at the injection point) and, less frequently, fever, muscle pain or articular pain and headache, usually of low nitty and which are resolved within one or two days. There is rarely any allergic reaction, while more serious reactions are reported (not always related to the vaccine) in just one or two subjects per million vaccines.\n\n\n\n\n\n\nTalk to your doctor to assess the individual case\nIn cancer patients, vaccination is indicated to be safe, minimally invasive and can also be administered at the same time as other vaccines. Both patients who have completed treatment and in active treatment should be used for which it is suggested that you do so after about two weeks of therapy to allow for a better immune response. There are, as always, counter-indications: in those who, for example, have had previous anaphylactic reactions to one of the components of the vaccine. Or, in the presence of an acute mid-weight disease, it is good to postpone anti-fluid immune conditions until the patient is re-immunerated. That is why it is good to talk to both the oncolo and the family doctor, so that we can best assess the individual case, which will also advise you on the main hygiene rules to prevent the influence that occurs during the autumn and winter: in particular, 4. the vaccination should normally be carried out during the autumn period from October to late December.\n\n\n\n\n\n\n3 December 2019 (recast on 3 December 2019 | 12:59)\n\n© RIPRODUZION"
+        }
+      }
+    },
+    {
+      "id": 47266523,
+      "title": "ميركل تعزى رئيس وزراء ألبانبا فى وفاة زوجة نجله فى الزلزال - اخبار",
+      "body": "أعربت المستشارة الألمانية أنجيلا    ميركل   عن تعاطفها الشديد لذوي ضحايا ال   زلزال   الذي ضرب ألبانيا وللحكومة الألبانية.\nوكتبت    ميركل   اليوم الأحد في برقية تعزية لرئيس الوزراء الألباني إيدي راما: “اعلم الألم الذي اضطررت أنت وعائلتك لمعايشته”.\nوبحسب تقارير، توفيت شريكة حياة نجل رئيس الوزراء الألباني خلال ال   زلزال  .\nوأضافت المستشارة: ”   ألمانيا   والاتحاد الأوروبي سيقدمان دعمهما لكم في هذا الوقت العصيب”.\nيذكر أن 50 شخصًا لقوا حتفهم إثر ال   زلزال   الذي ضرب ألبانيا يوم الثلاثاء الماضي والذي يعد الأقوى هناك منذ عقود. وتوقفت قوات الإنقاذ عن البحث عن ضحايا أمس السبت. وأصيب إثر ال   زلزال   أكثر من 650 شخصًا. وبحسب بيانات الحكومة الألبانية، ضرب    زلزال   بقوة 4ر6 ريختر نحو ألفي مبنى. ووفقا لمعهد علوم الأرض في تيرانا، وقع مركز ال   زلزال   على بعد عشرة كيلومترات شمالي ميناء دوريس الغربي وعلى بعد 30 كيلومترا غربي العاصمة الألبانية تيرانا.\n\n  يمكن قراءة الخبر من المصدر من هنا",
+      "summary": {
+        "sentences": [
+          "German Chancellor Angela Merkel expressed her deep sympathy for the victims of the earthquake that hit Albania and the Albanian government.",
+          "According to reports, a partner of the life of a Prime Minister of Albania died during the earthquake.",
+          "It is reported that 50 people died as a result of the earthquake that hit Albania on Tuesday, which is the most powerful there for decades.",
+          "According to Albanian government data, the 4r6 earthquake hit 2,000 buildings.",
+          "According to the Earth Science Institute in Tirana, the earthquake center occurred ten kilometers north of the port of Doris West and 30 km west of the Albanian capital, Tirana."
+        ]
+      },
+      "source": {
+        "id": 16411,
+        "name": "Libya Akhbar",
+        "home_page_url": "https://www.libyaakhbar.com/",
+        "domain": "libyaakhbar.com",
+        "logo_url": "https://www.libyaakhbar.com/wp-content/uploads/2017/10/cropped-Facbookilibya-32x32.png",
+        "locations": [
+          {
+            "country": "LY"
+          }
+        ],
+        "scopes": [
+          {
+            "country": "LY",
+            "level": "national"
+          }
+        ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 11057,
+              "fetched_at": "2019-06-06T18:26:40Z"
+            },
+            {
+              "rank": 3206,
+              "country": "EG",
+              "fetched_at": "2019-06-06T18:26:40Z"
+            },
+            {
+              "rank": 1628,
+              "country": "TN",
+              "fetched_at": "2019-06-06T18:26:40Z"
+            },
+            {
+              "rank": 14,
+              "country": "LY",
+              "fetched_at": "2019-06-06T18:26:40Z"
+            },
+            {
+              "rank": 7947,
+              "country": "SA",
+              "fetched_at": "2019-06-06T18:26:40Z"
+            },
+            {
+              "rank": 18142,
+              "country": "GB",
+              "fetched_at": "2019-06-06T18:26:40Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 496316,
+        "name": "ايوان ليبيا"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "Prime Minister",
+            "score": 0.4478072226047516,
+            "types": [
+              "OfficeHolder"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Prime_minister"
+            },
+            "indices": []
+          },
+          {
+            "text": "Albania",
+            "score": 1.0,
+            "types": [
+              "MusicalArtist",
+              "PopulatedPlace",
+              "Country",
+              "Place",
+              "Location"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Albania"
+            },
+            "indices": []
+          }
+        ],
+        "body": [
+          {
+            "text": "pain",
+            "score": 0.9981327652931213,
+            "types": [
+              "Disease",
+              "Feeling"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Pain"
+            },
+            "indices": []
+          },
+          {
+            "text": "German Chancellor",
+            "score": 0.8468354344367981,
+            "types": [
+              "Head",
+              "Person"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Chancellor_of_Germany"
+            },
+            "indices": []
+          },
+          {
+            "text": "telegram",
+            "score": 1.0,
+            "types": [
+              "Transmission",
+              "Automobile",
+              "Product"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Telegraphy"
+            },
+            "indices": []
+          },
+          {
+            "text": "port",
+            "score": 0.8849443197250366,
+            "types": [
+              "Location",
+              "Place"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Port"
+            },
+            "indices": []
+          },
+          {
+            "text": "Earth",
+            "score": 0.999614417552948,
+            "types": [
+              "Location",
+              "Planet",
+              "Place",
+              "CelestialBody"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Earth"
+            },
+            "indices": []
+          },
+          {
+            "text": "Angela Merkel",
+            "score": 1.0,
+            "types": [
+              "Agent",
+              "Person",
+              "OfficeHolder",
+              "Politician"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Angela_Merkel"
+            },
+            "indices": []
+          },
+          {
+            "text": "Rama",
+            "score": 0.9988132119178772,
+            "types": [
+              "Agent",
+              "Avatar",
+              "Person"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Rama"
+            },
+            "indices": []
+          },
+          {
+            "text": "Prime Minister",
+            "score": 0.41054609417915344,
+            "types": [
+              "Head",
+              "OfficeHolder",
+              "Person"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom"
+            },
+            "indices": []
+          },
+          {
+            "text": "Germany",
+            "score": 0.9886309504508972,
+            "types": [
+              "PopulatedPlace",
+              "Republic",
+              "Country",
+              "Location",
+              "Place",
+              "Person"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Germany"
+            },
+            "indices": []
+          },
+          {
+            "text": "Albania",
+            "score": 0.9968409538269043,
+            "types": [
+              "PopulatedPlace",
+              "Country",
+              "Location",
+              "MusicalArtist",
+              "Place"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Albania"
+            },
+            "indices": []
+          },
+          {
+            "text": "Tirana",
+            "score": 0.9348464608192444,
+            "types": [
+              "Capital",
+              "City",
+              "Settlement",
+              "Place"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Tirana"
+            },
+            "indices": []
+          },
+          {
+            "text": "Albanian",
+            "score": 0.5822835564613342,
+            "types": [
+              "EthnicGroup",
+              "Country"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Albanians"
+            },
+            "indices": []
+          },
+          {
+            "text": "European Union",
+            "score": 0.9999244213104248,
+            "types": [
+              "PopulatedPlace",
+              "Organisation",
+              "Union",
+              "Country",
+              "Location",
+              "Place"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/European_Union"
+            },
+            "indices": []
+          },
+          {
+            "text": "Doris West",
+            "types": [
+              "Place"
+            ],
+            "indices": []
+          },
+          {
+            "text": "Merkel",
+            "types": [
+              "Person"
+            ],
+            "indices": []
+          },
+          {
+            "text": "Eddie Rama",
+            "types": [
+              "Person"
+            ],
+            "indices": []
+          },
+          {
+            "text": "Earth Science Institute",
+            "types": [
+              "Organisation"
+            ],
+            "indices": []
+          }
+        ]
+      },
+      "keywords": [
+        "death",
+        "Albania",
+        "Minister",
+        "wife",
+        "Prime",
+        "earthquake",
+        "Merkel",
+        "News",
+        "Prime Minister",
+        "Albanian",
+        "Tirana",
+        "victims",
+        "people",
+        "government",
+        "deep",
+        "reports",
+        "pain",
+        "support",
+        "partner",
+        "family",
+        "Rama",
+        "Union",
+        "German Chancellor",
+        "telegram",
+        "port",
+        "Earth",
+        "Angela Merkel",
+        "Germany",
+        "European Union"
+      ],
+      "hashtags": [
+        "#Earthquake",
+        "#Albania",
+        "#Albanians",
+        "#PrimeMinisterOfTheUnitedKingdom",
+        "#Tirana",
+        "#ChancellorOfGermany",
+        "#AngelaMerkel",
+        "#Telegraphy",
+        "#Rama",
+        "#Pain",
+        "#Germany",
+        "#EuropeanUnion",
+        "#Earth",
+        "#Port"
+      ],
+      "characters_count": 1020,
+      "words_count": 172,
+      "sentences_count": 10,
+      "paragraphs_count": 6,
+      "categories": [
+        {
+          "id": "IAB11-3",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.36,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB11-3",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB11"
+          }
+        },
+        {
+          "id": "IAB11",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.09,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB11"
+          }
+        },
+        {
+          "id": "IAB20",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.07,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB20"
+          }
+        },
+        {
+          "id": "IAB20-14",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.07,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB20-14",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB20"
+          }
+        },
+        {
+          "id": "03002000",
+          "taxonomy": "iptc-subjectcode",
+          "level": 2,
+          "score": 0.79,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/03002000",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/03000000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": [
+          {
+            "count": 0,
+            "fetched_at": "2019-12-02T09:14:51Z"
+          },
+          {
+            "count": 0,
+            "fetched_at": "2019-12-02T00:16:13Z"
+          },
+          {
+            "count": 0,
+            "fetched_at": "2019-12-01T18:17:45Z"
+          }
+        ]
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.libyaakhbar.com/wp-content/uploads/2019/12/637107994911337082_131224338148_433_LTH.jpg",
+          "format": "JPEG",
+          "content_length": 17350,
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.663247
+        },
+        "body": {
+          "polarity": "positive",
+          "score": 0.504735
+        }
+      },
+      "language": "ar",
+      "published_at": "2019-12-01T17:36:05Z",
+      "links": {
+        "permalink": "https://www.libyaakhbar.com/news/1080980.html",
+        "related_stories": "/related_stories?story_id=47266523",
+        "coverages": "/coverages?story_id=47266523",
+        "clusters": "/clusters?id[]=30150817"
+      },
+      "clusters": [
+        30150817
+      ],
+      "translations": {
+        "en": {
+          "title": "Merkel owes Prime Minister of Albania to the death of his wife in the earthquake. - News",
+          "body": "German Chancellor Angela Merkel expressed her deep sympathy for the victims of the earthquake that hit Albania and the Albanian government.\nMerkel wrote on Sunday in a telegram to Albanian Prime Minister Eddie Rama: \"I know the pain you and your family had to live with.\"\nAccording to reports, a partner of the life of a Prime Minister of Albania died during the earthquake.\nThe adviser added: “Germany and the European Union will give you their support at this difficult time.”\nIt is reported that 50 people died as a result of the earthquake that hit Albania on Tuesday, which is the most powerful there for decades. Rescue forces stopped searching for victims yesterday. The earthquake affected more than 650 people. According to Albanian government data, the 4r6 earthquake hit 2,000 buildings. According to the Earth Science Institute in Tirana, the earthquake center occurred ten kilometers north of the port of Doris West and 30 km west of the Albanian capital, Tirana.\n\nThe news can be read from the source here."
+        }
+      }
+    },
+    {
+      "id": 27163652,
+      "title": "IFG Advisory LLC Has $4.62 Million Position in AT\u0026T Inc.",
+      "body": "IFG Advisory LLC lifted its stake in shares of AT\u0026T Inc. (NYSE:T) by 15.0% during the 2nd quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission (SEC). The firm owned 137,966 shares of the technology companys stock after acquiring an additional 18,028 shares during the period. AT\u0026T accounts for about 0.8% of IFG Advisory LLCs investment portfolio, making the stock its 22nd largest position. IFG Advisory LLCs holdings in AT\u0026T were worth $4,623,000 as of its most recent filing with the Securities and Exchange Commission (SEC).\n\nSeveral other hedge funds also recently made changes to their positions in the company. Enterprise Trust \u0026 Investment Co acquired a new stake in shares of AT\u0026T during the second quarter worth approximately $3,465,000. Pinkerton Retirement Specialists LLC boosted its holdings in AT\u0026T by 1.2% in the second quarter. Pinkerton Retirement Specialists LLC now owns 58,748 shares of the technology companys stock worth $1,969,000 after purchasing an additional 711 shares during the period. MCF Advisors LLC boosted its holdings in AT\u0026T by 27.4% in the second quarter. MCF Advisors LLC now owns 29,563 shares of the technology companys stock worth $991,000 after purchasing an additional 6,359 shares during the period. Beaumont Financial Partners LLC boosted its holdings in AT\u0026T by 15.5% in the second quarter. Beaumont Financial Partners LLC now owns 17,696 shares of the technology companys stock worth $593,000 after purchasing an additional 2,380 shares during the period. Finally, Pinnacle Wealth Planning Services Inc. boosted its holdings in AT\u0026T by 6.5% in the second quarter. Pinnacle Wealth Planning Services Inc. now owns 22,608 shares of the technology companys stock worth $757,000 after purchasing an additional 1,389 shares during the period. Institutional investors and hedge funds own 52.63% of the companys stock.\n\nIn other news, CEO John T. Stankey sold 4,024 shares of the businesss stock in a transaction that occurred on Tuesday, July 30th. The stock was sold at an average price of $34.15, for a total transaction of $137,419.60. Following the sale, the chief executive officer now directly owns 2,366 shares in the company, valued at $80,798.90. The transaction was disclosed in a document filed with the SEC, which is accessible through the SEC website. Insiders own 0.07% of the companys stock.\n\nA number of equities research analysts have issued reports on the company. Cowen raised their target price on AT\u0026T from $34.00 to $40.00 and gave the company an outperform rating in a research note on Thursday, July 25th. Desjardins reiterated an average rating and issued a $55.50 target price on shares of AT\u0026T in a research note on Tuesday, August 6th. Morgan Stanley reiterated a buy rating and issued a $37.00 target price on shares of AT\u0026T in a research note on Thursday, August 1st. Bank of America restated a buy rating and set a $37.00 price objective on shares of AT\u0026T in a research note on Monday, June 24th. Finally, Raymond James lifted their price objective on shares of AT\u0026T from $34.00 to $35.00 and gave the company an outperform rating in a research note on Thursday, July 25th. One research analyst has rated the stock with a sell rating, seven have given a hold rating and eleven have issued a buy rating to the stock. AT\u0026T has an average rating of Buy and an average price target of $36.52.\n\nT traded up $0.11 on Friday, hitting $35.26. The company had a trading volume of 20,418,852 shares, compared to its average volume of 28,387,210. The companys fifty day moving average price is $34.16 and its 200 day moving average price is $32.22. AT\u0026T Inc. has a 1-year low of $26.80 and a 1-year high of $35.50. The company has a debt-to-equity ratio of 0.81, a current ratio of 0.71 and a quick ratio of 0.71. The stock has a market cap of $256.84 billion, a price-to-earnings ratio of 10.02, a price-to-earnings-growth ratio of 2.23 and a beta of 0.62.\n\nAT\u0026T (NYSE:T) last issued its quarterly earnings results on Wednesday, July 24th. The technology company reported $0.89 EPS for the quarter, hitting analysts consensus estimates of $0.89. AT\u0026T had a return on equity of 13.38% and a net margin of 9.47%. The company had revenue of $44.96 billion during the quarter, compared to analyst estimates of $44.97 billion. During the same period in the previous year, the company earned $0.91 earnings per share. The companys quarterly revenue was up 15.3% compared to the same quarter last year. On average, sell-side analysts forecast that AT\u0026T Inc. will post 3.56 EPS for the current year.",
+      "summary": {
+        "sentences": [
+          "IFG Advisory LLC lifted its stake in shares of AT\u0026T Inc. (NYSE:T) by 15.0% during the 2nd quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission (SEC).",
+          "Cowen raised their target price on AT\u0026T from $34.00 to $40.00 and gave the company an outperform rating in a research note on Thursday, July 25th.",
+          "Desjardins reiterated an average rating and issued a $55.50 target price on shares of AT\u0026T in a research note on Tuesday, August 6th.",
+          "Morgan Stanley reiterated a buy rating and issued a $37.00 target price on shares of AT\u0026T in a research note on Thursday, August 1st.",
+          "Finally, Raymond James lifted their price objective on shares of AT\u0026T from $34.00 to $35.00 and gave the company an outperform rating in a research note on Thursday, July 25th."
+        ]
+      },
+      "source": {
+        "id": 12693,
+        "name": "Kabulpress.org",
+        "home_page_url": "http://www.kabulpress.org/",
+        "domain": "kabulpress.org",
+        "locations": [
+          {
+            "country": "AF",
+            "state": "Kabul",
+            "city": "Kabul"
+          }
+        ],
+        "scopes": [
+          {
+            "level": "international"
+          },
+          {
+            "country": "AF",
+            "level": "national"
+          },
+          {
+            "country": "GB",
+            "state": "Northern Ireland",
+            "level": "national"
+          }
+        ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 615128,
+              "fetched_at": "2019-06-06T17:39:08Z"
+            },
+            {
+              "rank": 1421,
+              "country": "AF",
+              "fetched_at": "2019-06-06T17:39:08Z"
+            },
+            {
+              "rank": 466669,
+              "country": "US",
+              "fetched_at": "2019-06-06T17:39:08Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 974635,
+        "name": ""
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "AT\u0026T Inc.",
+            "score": 1.0,
+            "types": [
+              "Agent",
+              "Organisation",
+              "Company"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/AT\u0026T"
+            },
+            "indices": []
+          }
+        ],
+        "body": [
+          {
+            "text": "CEO",
+            "score": 0.9999079704284668,
+            "types": [
+              "PersonFunction"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Chief_executive_officer"
+            },
+            "indices": [
+              [
+                1930,
+                1932
+              ]
+            ]
+          },
+          {
+            "text": "chief executive officer",
+            "score": 1.0,
+            "types": [
+              "PersonFunction"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Chief_executive_officer"
+            },
+            "indices": [
+              [
+                2159,
+                2181
+              ]
+            ]
+          },
+          {
+            "text": "market cap",
+            "score": 1.0,
+            "types": [
+              "Company",
+              "Value"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Market_capitalization"
+            },
+            "indices": [
+              [
+                3846,
+                3855
+              ]
+            ]
+          },
+          {
+            "text": "Beaumont",
+            "score": 0.9573500156402588,
+            "types": [
+              "Settlement",
+              "City",
+              "Place",
+              "Location",
+              "PopulatedPlace"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Beaumont,_Texas"
+            },
+            "indices": [
+              [
+                1300,
+                1307
+              ],
+              [
+                1393,
+                1400
+              ]
+            ]
+          },
+          {
+            "text": "sell-side",
+            "score": 1.0,
+            "types": [
+              "Term"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Sell_side"
+            },
+            "indices": [
+              [
+                4525,
+                4533
+              ]
+            ]
+          },
+          {
+            "text": "equity",
+            "score": 0.5450559258460999,
+            "types": [
+              "Difference",
+              "Disease"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Equity_(finance)"
+            },
+            "indices": [
+              [
+                3757,
+                3762
+              ],
+              [
+                4184,
+                4189
+              ]
+            ]
+          },
+          {
+            "text": "Morgan Stanley",
+            "score": 1.0,
+            "types": [
+              "Organisation",
+              "Company",
+              "Corporation",
+              "Agent",
+              "Bank"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Morgan_Stanley"
+            },
+            "indices": [
+              [
+                2760,
+                2773
+              ]
+            ]
+          },
+          {
+            "text": "price-to-earnings ratio",
+            "score": 1.0,
+            "types": [
+              "Ratio"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Price–earnings_ratio"
+            },
+            "indices": [
+              [
+                3879,
+                3901
+              ]
+            ]
+          },
+          {
+            "text": "Enterprise",
+            "score": 0.37618789076805115,
+            "types": [
+              "FictionalCharacter",
+              "Spaceship"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Enterprise_(NX-01)"
+            },
+            "indices": [
+              [
+                673,
+                682
+              ]
+            ]
+          },
+          {
+            "text": "The firm",
+            "score": 0.30434125661849976,
+            "types": [
+              "Wikidata:Q11424",
+              "Film",
+              "Product",
+              "Work"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/The_Firm_(1993_film)"
+            },
+            "indices": [
+              [
+                205,
+                212
+              ]
+            ]
+          },
+          {
+            "text": "Pinkerton",
+            "score": 0.8004746437072754,
+            "types": [
+              "Organisation",
+              "Company",
+              "Guard",
+              "Agent",
+              "AmericanFootballPlayer"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Pinkerton_(detective_agency)"
+            },
+            "indices": [
+              [
+                803,
+                811
+              ],
+              [
+                900,
+                908
+              ]
+            ]
+          },
+          {
+            "text": "moving average",
+            "score": 0.9910022020339966,
+            "types": [
+              "Calculation"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Moving_average"
+            },
+            "indices": [
+              [
+                3586,
+                3599
+              ],
+              [
+                3633,
+                3646
+              ]
+            ]
+          },
+          {
+            "text": "hedge funds",
+            "score": 0.9983439445495605,
+            "types": [
+              "Fund",
+              "PersonFunction",
+              "Company"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Hedge_fund"
+            },
+            "indices": [
+              [
+                599,
+                609
+              ],
+              [
+                1868,
+                1878
+              ]
+            ]
+          },
+          {
+            "text": "NYSE",
+            "score": 0.9989092350006104,
+            "types": [
+              "Exchange",
+              "Company",
+              "Place",
+              "Location",
+              "Building",
+              "ArchitecturalStructure"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/New_York_Stock_Exchange"
+            },
+            "indices": [
+              [
+                58,
+                61
+              ],
+              [
+                3981,
+                3984
+              ]
+            ]
+          },
+          {
+            "text": "stake",
+            "score": 0.6863017082214355,
+            "types": [
+              "Organisation",
+              "Unit"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Stake_(Latter_Day_Saints)"
+            },
+            "indices": [
+              [
+                28,
+                32
+              ],
+              [
+                721,
+                725
+              ]
+            ]
+          },
+          {
+            "text": "SEC",
+            "score": 0.5854868292808533,
+            "types": [
+              "SocietalEvent",
+              "Conference"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Southeastern_Conference"
+            },
+            "indices": [
+              [
+                199,
+                201
+              ],
+              [
+                578,
+                580
+              ],
+              [
+                2311,
+                2313
+              ],
+              [
+                2348,
+                2350
+              ]
+            ]
+          },
+          {
+            "text": "AT\u0026T Inc.",
+            "score": 1.0,
+            "types": [
+              "Organisation",
+              "Company",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/AT\u0026T"
+            },
+            "indices": []
+          },
+          {
+            "text": "AT\u0026T",
+            "score": 0.9343751668930054,
+            "types": [
+              "Organisation",
+              "Company",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/AT\u0026T"
+            },
+            "indices": [
+              [
+                47,
+                50
+              ],
+              [
+                331,
+                334
+              ],
+              [
+                477,
+                480
+              ],
+              [
+                740,
+                743
+              ],
+              [
+                864,
+                867
+              ],
+              [
+                1112,
+                1115
+              ],
+              [
+                1356,
+                1359
+              ],
+              [
+                1631,
+                1634
+              ],
+              [
+                2514,
+                2517
+              ],
+              [
+                2712,
+                2715
+              ],
+              [
+                2845,
+                2848
+              ],
+              [
+                2978,
+                2981
+              ],
+              [
+                3089,
+                3092
+              ],
+              [
+                3343,
+                3346
+              ],
+              [
+                3665,
+                3668
+              ],
+              [
+                3975,
+                3978
+              ],
+              [
+                4163,
+                4166
+              ],
+              [
+                4558,
+                4561
+              ]
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "AT\u0026T Inc.",
+        "CEO",
+        "chief executive officer",
+        "market cap",
+        "average rating",
+        "Beaumont",
+        "sell-side",
+        "equity",
+        "Morgan Stanley",
+        "price-to-earnings ratio",
+        "Enterprise",
+        "The firm",
+        "equities",
+        "Pinkerton",
+        "moving average",
+        "hedge funds",
+        "NYSE",
+        "stake",
+        "SEC",
+        "AT\u0026T"
+      ],
+      "hashtags": [
+        "#ATT",
+        "#SEC",
+        "#SoutheasternConference",
+        "#Stake",
+        "#NYSE",
+        "#NewYorkStockExchange",
+        "#HedgeFund",
+        "#Pinkerton",
+        "#BeaumontTexas",
+        "#ChiefExecutiveOfficer",
+        "#WeightedArithmeticMean",
+        "#MovingAverage",
+        "#TheFirm",
+        "#Enterprise",
+        "#CEO",
+        "#Stock",
+        "#MorganStanley",
+        "#MarketCapitalization",
+        "#Price–earningsRatio",
+        "#Equity",
+        "#SellSide"
+      ],
+      "characters_count": 4608,
+      "words_count": 857,
+      "sentences_count": 41,
+      "paragraphs_count": 6,
+      "categories": [
+        {
+          "id": "IAB13",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.69,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13"
+          }
+        },
+        {
+          "id": "IAB13-11",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.33,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13-11",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13"
+          }
+        },
+        {
+          "id": "04016018",
+          "taxonomy": "iptc-subjectcode",
+          "level": 3,
+          "score": 0.18,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04016018",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04016000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.896029
+        },
+        "body": {
+          "polarity": "positive",
+          "score": 0.68457
+        }
+      },
+      "language": "en",
+      "published_at": "2019-09-02T16:45:32Z",
+      "links": {
+        "permalink": "",
+        "related_stories": "/related_stories?story_id=27163652",
+        "coverages": "/coverages?story_id=27163652",
+        "clusters": "/clusters?id[]=11419110"
+      },
+      "clusters": [
+        11419110
+      ],
+      "translations": {}
+    },
+    {
+      "id": 24611499,
+      "title": "Wells Fargo \u0026 Co Lowers Deere \u0026 Company (NYSE:DE) Price Target to $170.00",
+      "body": "Deere \u0026 Company (NYSE:DE) had its target price lowered by equities researchers at Wells Fargo \u0026 Co from $185.00 to $170.00 in a report released on Monday, The Fly reports. The firm presently has an “outperform” rating on the industrial products company’s stock. Wells Fargo \u0026 Co‘s target price would indicate a potential upside of 11.77% from the company’s previous close. The analysts noted that the move was a valuation call.\n\nDE has been the topic of several other research reports. Vertical Research lowered shares of Deere \u0026 Company from a “buy” rating to a “hold” rating in a research note on Monday, May 20th. JPMorgan Chase \u0026 Co. lowered shares of Deere \u0026 Company from a “neutral” rating to an “underweight” rating and dropped their price objective for the stock from $154.00 to $132.00 in a research note on Tuesday, May 14th. Barclays reissued a “buy” rating and set a $167.00 price objective on shares of Deere \u0026 Company in a research note on Monday, July 15th. Robert W. Baird dropped their price objective on shares of Deere \u0026 Company from $170.00 to $150.00 and set a “positive” rating on the stock in a research note on Tuesday, August 13th. Finally, Bank of America raised shares of Deere \u0026 Company from a “neutral” rating to a “buy” rating and set a $185.00 price objective on the stock in a research note on Monday, July 15th. Two research analysts have rated the stock with a sell rating, nine have assigned a hold rating and thirteen have assigned a buy rating to the company’s stock. The stock presently has an average rating of “Hold” and an average price target of $166.89.\n\nNYSE:DE opened at $152.10 on Monday. Deere \u0026 Company has a one year low of $128.32 and a one year high of $171.22. The company has a debt-to-equity ratio of 2.38, a current ratio of 1.99 and a quick ratio of 1.73. The company’s 50-day simple moving average is $160.24 and its 200 day simple moving average is $158.37. The firm has a market capitalization of $47.31 billion, a P/E ratio of 16.20, a PEG ratio of 1.85 and a beta of 1.10.\n\nIn other news, COO John C. May II sold 16,468 shares of the company’s stock in a transaction that occurred on Friday, June 21st. The shares were sold at an average price of $163.21, for a total value of $2,687,742.28. Following the transaction, the chief operating officer now owns 60,550 shares in the company, valued at $9,882,365.50. The sale was disclosed in a legal filing with the SEC, which is available at this link. Also, COO John C. May II sold 5,228 shares of the stock in a transaction that occurred on Friday, July 26th. The shares were sold at an average price of $170.00, for a total transaction of $888,760.00. Following the transaction, the chief operating officer now owns 49,310 shares in the company, valued at approximately $8,382,700. The disclosure for this sale can be found here. Corporate insiders own 0.71% of the company’s stock.\n\nA number of institutional investors have recently modified their holdings of DE. Nuveen Asset Management LLC lifted its position in Deere \u0026 Company by 20,513.8% during the second quarter. Nuveen Asset Management LLC now owns 3,147,721 shares of the industrial products company’s stock valued at $521,609,000 after purchasing an additional 3,132,451 shares during the period. Parnassus Investments CA bought a new position in Deere \u0026 Company during the second quarter valued at approximately $392,652,000. JPMorgan Chase \u0026 Co. lifted its position in Deere \u0026 Company by 67.0% during the first quarter. JPMorgan Chase \u0026 Co. now owns 3,733,015 shares of the industrial products company’s stock valued at $596,683,000 after purchasing an additional 1,497,433 shares during the period. FMR LLC lifted its position in Deere \u0026 Company by 13.6% during the first quarter. FMR LLC now owns 8,713,051 shares of the industrial products company’s stock valued at $1,392,694,000 after purchasing an additional 1,043,039 shares during the period. Finally, Janus Henderson Group PLC lifted its position in Deere \u0026 Company by 47.6% during the first quarter. Janus Henderson Group PLC now owns 2,749,227 shares of the industrial products company’s stock valued at $439,432,000 after purchasing an additional 886,561 shares during the period. Institutional investors own 67.67% of the company’s stock.\n\nDeere \u0026 Company manufactures and distributes various equipment worldwide. The company operates through three segments: Agriculture and Turf, Construction and Forestry, and Financial Services. The Agriculture and Turf segment offers agriculture and turf equipment, and related parts, including large, medium, and utility tractors; tractor loaders; combines, cotton pickers, cotton strippers, and sugarcane harvesters; harvesting front-end equipment; sugarcane loaders and pull-behind scrapers; and tillage, seeding, and application equipment.\n\nRecommended Story: Technical Analysis of Stocks and What It Means\n\n\n\nReceive News \u0026 Ratings for Deere \u0026 Company Daily - Enter your email address below to receive a concise daily summary of the latest news and analysts' ratings for Deere \u0026 Company and related companies with MarketBeat.com's FREE daily email newsletter.",
+      "summary": {
+        "sentences": [
+          "Vertical Research lowered shares of Deere \u0026 Company from a “buy” rating to a “hold” rating in a research note on Monday, May 20th.",
+          "JPMorgan Chase \u0026 Co. lowered shares of Deere \u0026 Company from a “neutral” rating to an “underweight” rating and dropped their price objective for the stock from $154.00 to $132.00 in a research note on Tuesday, May 14th.",
+          "Barclays reissued a “buy” rating and set a $167.00 price objective on shares of Deere \u0026 Company in a research note on Monday, July 15th.",
+          "Robert W. Baird dropped their price objective on shares of Deere \u0026 Company from $170.00 to $150.00 and set a “positive” rating on the stock in a research note on Tuesday, August 13th.",
+          "Finally, Bank of America raised shares of Deere \u0026 Company from a “neutral” rating to a “buy” rating and set a $185.00 price objective on the stock in a research note on Monday, July 15th."
+        ]
+      },
+      "source": {
+        "id": 5961,
+        "name": "Ticker Report",
+        "home_page_url": "http://www.tickerreport.com/",
+        "domain": "tickerreport.com",
+        "locations": [
+          {
+            "country": "US",
+            "state": "West Virginia",
+            "city": "Sandyville"
+          }
+        ],
+        "scopes": [
+          {
+            "country": "US",
+            "level": "national"
+          }
+        ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 2066205,
+              "fetched_at": "2019-06-06T17:45:18Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 974836,
+        "name": "Ethan Ryder"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "Wells Fargo",
+            "score": 0.9999999403953552,
+            "types": [
+              "Agent",
+              "Company",
+              "Bank",
+              "Organisation",
+              "Banking"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Wells_Fargo"
+            },
+            "indices": [
+              [
+                0,
+                10
+              ]
+            ]
+          },
+          {
+            "text": "DE",
+            "score": 0.662301778793335,
+            "types": [
+              "Person",
+              "Country",
+              "Republic",
+              "Place",
+              "PopulatedPlace",
+              "Location"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Germany"
+            },
+            "indices": [
+              [
+                46,
+                47
+              ]
+            ]
+          },
+          {
+            "text": "NYSE",
+            "score": 1.0,
+            "types": [
+              "Exchange",
+              "Company",
+              "ArchitecturalStructure",
+              "Place",
+              "Building",
+              "Location"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/New_York_Stock_Exchange"
+            },
+            "indices": [
+              [
+                41,
+                44
+              ]
+            ]
+          },
+          {
+            "text": "Deere \u0026 Company",
+            "score": 1.0,
+            "types": [
+              "Agent",
+              "Company",
+              "Organisation",
+              "Corporation"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/John_Deere"
+            },
+            "indices": [
+              [
+                24,
+                38
+              ]
+            ]
+          }
+        ],
+        "body": [
+          {
+            "text": "tractor",
+            "score": 0.9787493944168091,
+            "types": [
+              "Vehicle",
+              "MeanOfTransportation"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Tractor"
+            },
+            "indices": [
+              [
+                4607,
+                4613
+              ]
+            ]
+          },
+          {
+            "text": "ratings",
+            "score": 0.909507691860199,
+            "types": [
+              "Place",
+              "Systems"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Nielsen_ratings"
+            },
+            "indices": [
+              [
+                5039,
+                5045
+              ]
+            ]
+          },
+          {
+            "text": "market capitalization",
+            "score": 1.0,
+            "types": [
+              "Company",
+              "Value"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Market_capitalization"
+            },
+            "indices": [
+              [
+                1931,
+                1951
+              ]
+            ]
+          },
+          {
+            "text": "Deere \u0026 Company",
+            "score": 1.0,
+            "types": [
+              "Agent",
+              "Company",
+              "Organisation",
+              "Corporation"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/John_Deere"
+            },
+            "indices": [
+              [
+                0,
+                14
+              ],
+              [
+                522,
+                536
+              ],
+              [
+                656,
+                670
+              ],
+              [
+                916,
+                930
+              ],
+              [
+                1032,
+                1046
+              ],
+              [
+                1199,
+                1213
+              ],
+              [
+                1635,
+                1649
+              ],
+              [
+                3026,
+                3040
+              ],
+              [
+                3319,
+                3333
+              ],
+              [
+                3443,
+                3457
+              ],
+              [
+                3705,
+                3719
+              ],
+              [
+                3983,
+                3997
+              ],
+              [
+                4277,
+                4291
+              ],
+              [
+                4916,
+                4930
+              ],
+              [
+                5051,
+                5065
+              ]
+            ]
+          },
+          {
+            "text": "agriculture",
+            "score": 0.9996009469032288,
+            "types": [
+              "Company",
+              "Cultivation",
+              "PersonFunction"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Agriculture"
+            },
+            "indices": [
+              [
+                4509,
+                4519
+              ]
+            ]
+          },
+          {
+            "text": "institutional investors",
+            "score": 1.0,
+            "types": [
+              "Term"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Institutional_investor"
+            },
+            "indices": [
+              [
+                2906,
+                2928
+              ]
+            ]
+          },
+          {
+            "text": "tillage",
+            "score": 1.0,
+            "types": [
+              "Preparation",
+              "Food",
+              "Product"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Tillage"
+            },
+            "indices": [
+              [
+                4774,
+                4780
+              ]
+            ]
+          },
+          {
+            "text": "PLC",
+            "score": 0.6021788716316223,
+            "types": [
+              "Company"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Public_limited_company"
+            },
+            "indices": [
+              [
+                3956,
+                3958
+              ],
+              [
+                4056,
+                4058
+              ]
+            ]
+          },
+          {
+            "text": "Parnassus",
+            "score": 0.8831637501716614,
+            "types": [
+              "NaturalPlace",
+              "Mountain",
+              "Place",
+              "Location"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Mount_Parnassus"
+            },
+            "indices": [
+              [
+                3269,
+                3277
+              ]
+            ]
+          },
+          {
+            "text": "P/E ratio",
+            "score": 1.0,
+            "types": [
+              "Ratio"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Price–earnings_ratio"
+            },
+            "indices": [
+              [
+                1974,
+                1982
+              ]
+            ]
+          },
+          {
+            "text": "COO",
+            "score": 1.0,
+            "types": [
+              "Person",
+              "Position"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Chief_operating_officer"
+            },
+            "indices": [
+              [
+                2050,
+                2052
+              ],
+              [
+                2466,
+                2468
+              ]
+            ]
+          },
+          {
+            "text": "chief operating officer",
+            "score": 1.0,
+            "types": [
+              "Person",
+              "Position"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Chief_operating_officer"
+            },
+            "indices": [
+              [
+                2284,
+                2306
+              ],
+              [
+                2693,
+                2715
+              ]
+            ]
+          },
+          {
+            "text": "The firm",
+            "score": 0.31579354405403137,
+            "types": [
+              "Work",
+              "Product",
+              "Film",
+              "Wikidata:Q11424"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/The_Firm_(1993_film)"
+            },
+            "indices": [
+              [
+                172,
+                179
+              ],
+              [
+                1916,
+                1923
+              ]
+            ]
+          },
+          {
+            "text": "cotton",
+            "score": 0.9994215369224548,
+            "types": [
+              "Fiber",
+              "AnatomicalStructure",
+              "PersonFunction"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Cotton"
+            },
+            "indices": [
+              [
+                4634,
+                4639
+              ],
+              [
+                4650,
+                4655
+              ]
+            ]
+          },
+          {
+            "text": "scrapers",
+            "score": 0.9586819410324097,
+            "types": [
+              "Software",
+              "Product",
+              "Tools"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Scraper_(archaeology)"
+            },
+            "indices": [
+              [
+                4760,
+                4767
+              ]
+            ]
+          },
+          {
+            "text": "underweight",
+            "score": 1.0,
+            "types": [
+              "Disease",
+              "Term"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Underweight"
+            },
+            "indices": [
+              [
+                703,
+                713
+              ]
+            ]
+          },
+          {
+            "text": "FMR",
+            "score": 0.7691509127616882,
+            "types": [
+              "RecordLabel",
+              "Agent",
+              "Recording",
+              "Company",
+              "Organisation",
+              "Album",
+              "Product"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Festival_Records"
+            },
+            "indices": [
+              [
+                3674,
+                3676
+              ],
+              [
+                3756,
+                3758
+              ]
+            ]
+          },
+          {
+            "text": "JPMorgan Chase",
+            "score": 1.0,
+            "types": [
+              "Agent",
+              "Company",
+              "Bank",
+              "Organisation",
+              "Banking"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/JPMorgan_Chase"
+            },
+            "indices": [
+              [
+                617,
+                630
+              ],
+              [
+                3399,
+                3412
+              ],
+              [
+                3494,
+                3507
+              ]
+            ]
+          },
+          {
+            "text": "JPMorgan Chase \u0026 Co.",
+            "score": 1.0,
+            "types": [
+              "Agent",
+              "Company",
+              "Bank",
+              "Organisation",
+              "Banking"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/JPMorgan_Chase"
+            },
+            "indices": []
+          },
+          {
+            "text": "sugarcane",
+            "score": 0.9995564222335815,
+            "types": [
+              "Species",
+              "Eukaryote",
+              "PersonFunction"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Sugarcane"
+            },
+            "indices": [
+              [
+                4672,
+                4680
+              ],
+              [
+                4726,
+                4734
+              ]
+            ]
+          },
+          {
+            "text": "simple moving average",
+            "score": 1.0,
+            "types": [
+              "Calculation"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Moving_average"
+            },
+            "indices": [
+              [
+                1833,
+                1853
+              ],
+              [
+                1882,
+                1902
+              ]
+            ]
+          },
+          {
+            "text": "turf",
+            "score": 0.9539119601249695,
+            "types": [
+              "Species",
+              "Plant",
+              "Eukaryote",
+              "Insect"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Poaceae"
+            },
+            "indices": [
+              [
+                4525,
+                4528
+              ]
+            ]
+          },
+          {
+            "text": "Wells Fargo",
+            "score": 0.9993410110473633,
+            "types": [
+              "Agent",
+              "Company",
+              "Bank",
+              "Organisation",
+              "Banking"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Wells_Fargo"
+            },
+            "indices": [
+              [
+                82,
+                92
+              ],
+              [
+                262,
+                272
+              ]
+            ]
+          },
+          {
+            "text": "NYSE",
+            "score": 0.9990297555923462,
+            "types": [
+              "Exchange",
+              "Company",
+              "ArchitecturalStructure",
+              "Place",
+              "Building",
+              "Location"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/New_York_Stock_Exchange"
+            },
+            "indices": [
+              [
+                17,
+                20
+              ],
+              [
+                1598,
+                1601
+              ]
+            ]
+          },
+          {
+            "text": "The Fly",
+            "score": 0.42312783002853394,
+            "types": [
+              "Work",
+              "Product",
+              "Film",
+              "Wikidata:Q11424"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/The_Fly_(1986_film)"
+            },
+            "indices": [
+              [
+                155,
+                161
+              ]
+            ]
+          },
+          {
+            "text": "DE",
+            "score": 0.4971705973148346,
+            "types": [
+              "Person",
+              "Country",
+              "Republic",
+              "Place",
+              "PopulatedPlace",
+              "Location"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Germany"
+            },
+            "indices": [
+              [
+                22,
+                23
+              ],
+              [
+                429,
+                430
+              ],
+              [
+                1603,
+                1604
+              ],
+              [
+                2971,
+                2972
+              ]
+            ]
+          },
+          {
+            "text": "SEC",
+            "score": 0.7095326781272888,
+            "types": [
+              "SocietalEvent",
+              "Conference"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Southeastern_Conference"
+            },
+            "indices": [
+              [
+                2422,
+                2424
+              ]
+            ]
+          },
+          {
+            "text": "Barclays",
+            "score": 0.9994001388549805,
+            "types": [
+              "Agent",
+              "Company",
+              "Bank",
+              "Organisation",
+              "Banking"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Barclays"
+            },
+            "indices": [
+              [
+                836,
+                843
+              ]
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "Wells Fargo",
+        "DE",
+        "NYSE",
+        "Deere \u0026 Company",
+        "tractor",
+        "ratings",
+        "market capitalization",
+        "average rating",
+        "agriculture",
+        "institutional investors",
+        "tillage",
+        "PLC",
+        "Parnassus",
+        "P/E ratio",
+        "COO",
+        "chief operating officer",
+        "The firm",
+        "equities",
+        "cotton",
+        "scrapers",
+        "underweight",
+        "FMR",
+        "JPMorgan Chase",
+        "sugarcane",
+        "simple moving average",
+        "turf",
+        "The Fly",
+        "SEC",
+        "Barclays"
+      ],
+      "hashtags": [
+        "#JohnDeere",
+        "#JPMorganChase",
+        "#DE",
+        "#Germany",
+        "#ChiefOperatingOfficer",
+        "#WellsFargo",
+        "#NYSE",
+        "#NewYorkStockExchange",
+        "#TheFirm",
+        "#MovingAverage",
+        "#COO",
+        "#FMR",
+        "#FestivalRecords",
+        "#PLC",
+        "#PublicLimitedCompany",
+        "#Cotton",
+        "#Sugarcane",
+        "#Stock",
+        "#TheFly",
+        "#Underweight",
+        "#Barclays",
+        "#WeightedArithmeticMean",
+        "#MarketCapitalization",
+        "#Price–earningsRatio",
+        "#SEC",
+        "#SoutheasternConference",
+        "#InstitutionalInvestor",
+        "#MountParnassus",
+        "#Agriculture",
+        "#Poaceae",
+        "#Tractor",
+        "#Scraper",
+        "#Tillage",
+        "#NielsenRatings"
+      ],
+      "characters_count": 5139,
+      "words_count": 906,
+      "sentences_count": 41,
+      "paragraphs_count": 8,
+      "categories": [
+        {
+          "id": "IAB13",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.55,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13"
+          }
+        },
+        {
+          "id": "IAB13-11",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.28,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13-11",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13"
+          }
+        },
+        {
+          "id": "04008026",
+          "taxonomy": "iptc-subjectcode",
+          "level": 3,
+          "score": 0.09,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04008026",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04008000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": [
+          {
+            "count": 0,
+            "fetched_at": "2019-08-22T00:14:46Z"
+          },
+          {
+            "count": 0,
+            "fetched_at": "2019-08-21T18:17:45Z"
+          },
+          {
+            "count": 0,
+            "fetched_at": "2019-08-21T09:22:33Z"
+          }
+        ]
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.marketbeat.com/logos/deere--company-logo.jpg?v3",
+          "format": "JPEG",
+          "content_length": 12986,
+          "width": 493,
+          "height": 247
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.712308
+        },
+        "body": {
+          "polarity": "positive",
+          "score": 0.67233
+        }
+      },
+      "language": "en",
+      "published_at": "2019-08-21T08:17:29Z",
+      "links": {
+        "permalink": "https://www.tickerreport.com/banking-finance/4553222/wells-fargo-co-lowers-deere-company-nysede-price-target-to-170-00.html",
+        "related_stories": "/related_stories?story_id=24611499",
+        "coverages": "/coverages?story_id=24611499",
+        "clusters": "/clusters?id[]=10266676"
+      },
+      "clusters": [
+        10266676
+      ],
+      "translations": {}
+    },
+    {
+      "id": 21466483,
+      "title": "Analysts Offer Predictions for A. O. Smith Corp’s Q3 2019 Earnings (NYSE:AOS)",
+      "body": "A. O. Smith Corp (NYSE:AOS) – Stock analysts at Oppenheimer reduced their Q3 2019 earnings estimates for A. O. Smith in a research note issued to investors on Tuesday, July 30th. Oppenheimer analyst B. Blair now expects that the industrial products company will earn $0.54 per share for the quarter, down from their prior estimate of $0.70. Oppenheimer also issued estimates for A. O. Smith’s Q4 2019 earnings at $0.71 EPS, FY2019 earnings at $2.38 EPS and FY2020 earnings at $2.72 EPS.\n\nA number of other research analysts also recently issued reports on AOS. ValuEngine downgraded shares of A. O. Smith from a “hold” rating to a “sell” rating in a research report on Tuesday, May 14th. Jefferies Financial Group started coverage on shares of A. O. Smith in a research report on Wednesday, July 10th. They set a “hold” rating on the stock. Robert W. Baird boosted their target price on shares of A. O. Smith from $56.00 to $62.00 and gave the company an “outperform” rating in a research report on Wednesday, April 10th. Boenning Scattergood downgraded shares of A. O. Smith from an “outperform” rating to a “neutral” rating and set a $52.98 target price on the stock. in a research report on Wednesday, May 1st. Finally, Zacks Investment Research downgraded shares of A. O. Smith from a “hold” rating to a “sell” rating and set a $48.00 target price on the stock. in a research report on Wednesday, June 26th. Three equities research analysts have rated the stock with a sell rating, six have issued a hold rating and three have given a buy rating to the company’s stock. The stock has a consensus rating of “Hold” and an average price target of $54.25.\n\nA. O. Smith (NYSE:AOS) last released its earnings results on Tuesday, July 30th. The industrial products company reported $0.61 earnings per share (EPS) for the quarter, missing the Zacks’ consensus estimate of $0.64 by ($0.03). A. O. Smith had a net margin of 13.71% and a return on equity of 24.31%. The company had revenue of $765.40 million for the quarter, compared to analyst estimates of $812.29 million. During the same quarter in the previous year, the firm earned $0.61 EPS. The firm’s revenue was down 8.1% on a year-over-year basis.\n\nThe firm also recently declared a quarterly dividend, which will be paid on Thursday, August 15th. Shareholders of record on Wednesday, July 31st will be paid a dividend of $0.22 per share. The ex-dividend date is Tuesday, July 30th. This represents a $0.88 dividend on an annualized basis and a yield of 2.01%. A. O. Smith’s dividend payout ratio (DPR) is presently 33.72%.\n\nA. O. Smith announced that its Board of Directors has approved a share buyback plan on Monday, June 3rd that allows the company to buyback $300.00 million in shares. This buyback authorization allows the industrial products company to reacquire up to 4.3% of its stock through open market purchases. Stock buyback plans are generally a sign that the company’s management believes its stock is undervalued.\n\nIn other A. O. Smith news, Director Paul W. Jones sold 1,000 shares of the business’s stock in a transaction on Thursday, May 9th. The shares were sold at an average price of $49.50, for a total transaction of $49,500.00. Following the completion of the sale, the director now owns 182,266 shares in the company, valued at approximately $9,022,167. The sale was disclosed in a document filed with the Securities \u0026 Exchange Commission, which is accessible through the SEC website. Insiders own 1.03% of the company’s stock.\n\nA number of hedge funds have recently made changes to their positions in AOS. Bremer Bank National Association bought a new stake in A. O. Smith during the 1st quarter valued at $25,000. Huntington National Bank increased its stake in A. O. Smith by 82.2% during the 1st quarter. Huntington National Bank now owns 512 shares of the industrial products company’s stock valued at $27,000 after purchasing an additional 231 shares in the last quarter. Penserra Capital Management LLC bought a new stake in A. O. Smith during the 1st quarter valued at $29,000. Signaturefd LLC increased its stake in A. O. Smith by 67.6% during the 1st quarter. Signaturefd LLC now owns 538 shares of the industrial products company’s stock valued at $29,000 after purchasing an additional 217 shares in the last quarter. Finally, Quadrant Capital Group LLC increased its stake in A. O. Smith by 1,560.0% during the 1st quarter. Quadrant Capital Group LLC now owns 1,162 shares of the industrial products company’s stock valued at $58,000 after purchasing an additional 1,092 shares in the last quarter. Institutional investors and hedge funds own 75.40% of the company’s stock.\n\nA. O. Smith Corporation manufactures and markets residential and commercial gas and electric water heaters, boilers, tanks, and water treatment products in North America, China, Europe, and India. It operates through two segments, North America and Rest of World. The company offers water heaters for residences, restaurants, hotels and motels, office buildings, laundries, car washes, and small businesses; residential and commercial boilers for space heating applications in hospitals, schools, hotels, and other commercial buildings; and water treatment products, including on-the-go filtration bottles, point-of-use carbon and reverse osmosis products, point-of-entry water softeners, and whole-home water filtration products for residences, restaurants, hotels, and offices.\n\nSee Also: What is a management fee?\n\nReceive News \u0026 Ratings for A. O. Smith Daily - Enter your email address below to receive a concise daily summary of the latest news and analysts' ratings for A. O. Smith and related companies with MarketBeat.com's FREE daily email newsletter.",
+      "summary": {
+        "sentences": [
+          "A. O. Smith Corp (NYSE:AOS) – Stock analysts at Oppenheimer reduced their Q3 2019 earnings estimates for A. O. Smith in a research note issued to investors on Tuesday, July 30th.",
+          "ValuEngine downgraded shares of A. O. Smith from a “hold” rating to a “sell” rating in a research report on Tuesday, May 14th.",
+          "Robert W. Baird boosted their target price on shares of A. O. Smith from $56.00 to $62.00 and gave the company an “outperform” rating in a research report on Wednesday, April 10th.",
+          "Boenning Scattergood downgraded shares of A. O. Smith from an “outperform” rating to a “neutral” rating and set a $52.98 target price on the stock.",
+          "Finally, Zacks Investment Research downgraded shares of A. O. Smith from a “hold” rating to a “sell” rating and set a $48.00 target price on the stock."
+        ]
+      },
+      "source": {
+        "id": 5961,
+        "name": "Ticker Report",
+        "home_page_url": "http://www.tickerreport.com/",
+        "domain": "tickerreport.com",
+        "locations": [
+          {
+            "country": "US",
+            "state": "West Virginia",
+            "city": "Sandyville"
+          }
+        ],
+        "scopes": [
+          {
+            "country": "US",
+            "level": "national"
+          }
+        ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 2066205,
+              "fetched_at": "2019-06-06T17:45:18Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 19100,
+        "name": "Shane Hupp"
+      },
+      "entities": {
+        "title": [],
+        "body": [
+          {
+            "text": "ratings",
+            "score": 0.9122999906539917,
+            "types": [
+              "Place",
+              "Systems"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Nielsen_ratings"
+            },
+            "indices": [
+              [
+                5633,
+                5639
+              ]
+            ]
+          },
+          {
+            "text": "point-of-use",
+            "score": 1.0,
+            "types": [
+              "Units",
+              "MilitaryUnit"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Portable_water_purification"
+            },
+            "indices": [
+              [
+                5276,
+                5287
+              ]
+            ]
+          },
+          {
+            "text": "water softeners",
+            "score": 1.0,
+            "types": [
+              "Company",
+              "Removal"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Water_softening"
+            },
+            "indices": [
+              [
+                5341,
+                5355
+              ]
+            ]
+          },
+          {
+            "text": "North America",
+            "score": 0.9960958361625671,
+            "types": [
+              "Continent",
+              "Place",
+              "Location",
+              "Country",
+              "PopulatedPlace"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/North_America"
+            },
+            "indices": [
+              [
+                4825,
+                4837
+              ],
+              [
+                4900,
+                4912
+              ]
+            ]
+          },
+          {
+            "text": "Securities \u0026 Exchange Commission",
+            "score": 0.9977978467941284,
+            "types": [
+              "GovernmentAgency",
+              "Organisation",
+              "Company",
+              "Agent",
+              "Agency"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission"
+            },
+            "indices": [
+              [
+                3387,
+                3418
+              ]
+            ]
+          },
+          {
+            "text": "space heating",
+            "score": 0.949450671672821,
+            "types": [
+              "Device",
+              "Product"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Space_heater"
+            },
+            "indices": [
+              [
+                5116,
+                5128
+              ]
+            ]
+          },
+          {
+            "text": "carbon",
+            "score": 0.998149573802948,
+            "types": [
+              "Element",
+              "MilitaryUnit"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Carbon"
+            },
+            "indices": [
+              [
+                5289,
+                5294
+              ]
+            ]
+          },
+          {
+            "text": "equity",
+            "score": 0.565708577632904,
+            "types": [
+              "Difference",
+              "Disease"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Equity_(finance)"
+            },
+            "indices": [
+              [
+                1941,
+                1946
+              ]
+            ]
+          },
+          {
+            "text": "Oppenheimer",
+            "score": 0.5004634261131287,
+            "types": [
+              "Scientist",
+              "Person",
+              "Agent",
+              "Physicist"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/J._Robert_Oppenheimer"
+            },
+            "indices": [
+              [
+                48,
+                58
+              ],
+              [
+                179,
+                189
+              ],
+              [
+                341,
+                351
+              ]
+            ]
+          },
+          {
+            "text": "The firm",
+            "score": 0.2642463445663452,
+            "types": [
+              "Wikidata:Q11424",
+              "Film",
+              "Product",
+              "Work"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/The_Firm_(1993_film)"
+            },
+            "indices": [
+              [
+                2142,
+                2149
+              ],
+              [
+                2203,
+                2210
+              ]
+            ]
+          },
+          {
+            "text": "dividend",
+            "score": 0.9897482991218567,
+            "types": [
+              "Payment",
+              "Software",
+              "Product"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Dividend"
+            },
+            "indices": [
+              [
+                2247,
+                2254
+              ],
+              [
+                2364,
+                2371
+              ],
+              [
+                2400,
+                2407
+              ],
+              [
+                2461,
+                2468
+              ],
+              [
+                2529,
+                2536
+              ]
+            ]
+          },
+          {
+            "text": "Europe",
+            "score": 0.9985334873199463,
+            "types": [
+              "Continent",
+              "Place",
+              "Location",
+              "Country",
+              "PopulatedPlace"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Europe"
+            },
+            "indices": [
+              [
+                4847,
+                4852
+              ]
+            ]
+          },
+          {
+            "text": "Huntington National Bank",
+            "score": 1.0,
+            "types": [
+              "Organisation",
+              "Company",
+              "Agent"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Huntington_Bancshares"
+            },
+            "indices": [
+              [
+                3697,
+                3720
+              ],
+              [
+                3790,
+                3813
+              ]
+            ]
+          },
+          {
+            "text": "on-the-go",
+            "score": 1.0,
+            "types": [
+              "Specification",
+              "Software",
+              "Product"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/USB_On-The-Go"
+            },
+            "indices": [
+              [
+                5246,
+                5254
+              ]
+            ]
+          },
+          {
+            "text": "India",
+            "score": 0.998822808265686,
+            "types": [
+              "Country",
+              "Place",
+              "Location",
+              "MusicalArtist",
+              "PopulatedPlace"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/India"
+            },
+            "indices": [
+              [
+                4859,
+                4863
+              ]
+            ]
+          },
+          {
+            "text": "hedge funds",
+            "score": 0.9982575178146362,
+            "types": [
+              "Fund",
+              "PersonFunction",
+              "Company"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Hedge_fund"
+            },
+            "indices": [
+              [
+                3522,
+                3532
+              ],
+              [
+                4621,
+                4631
+              ]
+            ]
+          },
+          {
+            "text": "China",
+            "score": 0.9981260895729065,
+            "types": [
+              "State",
+              "Place",
+              "Location",
+              "Country",
+              "PopulatedPlace"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/China"
+            },
+            "indices": [
+              [
+                4840,
+                4844
+              ]
+            ]
+          },
+          {
+            "text": "NYSE",
+            "score": 0.9989315271377563,
+            "types": [
+              "Exchange",
+              "Company",
+              "Place",
+              "Location",
+              "Building",
+              "ArchitecturalStructure"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/New_York_Stock_Exchange"
+            },
+            "indices": [
+              [
+                18,
+                21
+              ],
+              [
+                1670,
+                1673
+              ]
+            ]
+          },
+          {
+            "text": "reverse osmosis",
+            "score": 0.9996134042739868,
+            "types": [
+              "Technology",
+              "Company"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Reverse_osmosis"
+            },
+            "indices": [
+              [
+                5300,
+                5314
+              ]
+            ]
+          },
+          {
+            "text": "stake",
+            "score": 0.7221997380256653,
+            "types": [
+              "Organisation",
+              "Unit"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Stake_(Latter_Day_Saints)"
+            },
+            "indices": [
+              [
+                3634,
+                3638
+              ],
+              [
+                3736,
+                3740
+              ],
+              [
+                4004,
+                4008
+              ],
+              [
+                4097,
+                4101
+              ],
+              [
+                4361,
+                4365
+              ]
+            ]
+          },
+          {
+            "text": "SEC",
+            "score": 0.739662230014801,
+            "types": [
+              "SocietalEvent",
+              "Conference"
+            ],
+            "links": {
+              "dbpedia": "http://dbpedia.org/resource/Southeastern_Conference"
+            },
+            "indices": [
+              [
+                3453,
+                3455
+              ]
+            ]
+          }
+        ]
+      },
+      "keywords": [
+        "Smith",
+        "Corp",
+        "Predictions",
+        "Offer",
+        "Earnings",
+        "Analysts",
+        "NYSE",
+        "company’s stock",
+        "products company",
+        "Stock analysts",
+        "company",
+        "share",
+        "Stock",
+        "products",
+        "water",
+        "rating",
+        "quarter",
+        "commercial",
+        "ratings",
+        "point-of-use",
+        "water softeners",
+        "filtration",
+        "North America",
+        "space heating",
+        "carbon",
+        "equity",
+        "Oppenheimer",
+        "The firm",
+        "equities",
+        "dividend",
+        "Europe",
+        "Huntington National Bank",
+        "on-the-go",
+        "share buyback",
+        "Stock buyback",
+        "India",
+        "water treatment",
+        "hedge funds",
+        "China",
+        "reverse osmosis",
+        "stake",
+        "SEC",
+        "water filtration"
+      ],
+      "hashtags": [
+        "#Stake",
+        "#NYSE",
+        "#NewYorkStockExchange",
+        "#JRobertOppenheimer",
+        "#Dividend",
+        "#TheFirm",
+        "#ShareRepurchase",
+        "#HedgeFund",
+        "#HuntingtonBancshares",
+        "#WaterTreatment",
+        "#NorthAmerica",
+        "#Stock",
+        "#Equity",
+        "#USSecuritiesAndExchangeCommission",
+        "#SEC",
+        "#SoutheasternConference",
+        "#China",
+        "#Europe",
+        "#India",
+        "#SpaceHeater",
+        "#USBOnTheGo",
+        "#Filtration",
+        "#PortableWaterPurification",
+        "#Carbon",
+        "#ReverseOsmosis",
+        "#WaterSoftening",
+        "#WaterFilter",
+        "#NielsenRatings"
+      ],
+      "characters_count": 5729,
+      "words_count": 1000,
+      "sentences_count": 48,
+      "paragraphs_count": 10,
+      "categories": [
+        {
+          "id": "IAB13",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.63,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13"
+          }
+        },
+        {
+          "id": "IAB13-11",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.29,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13-11",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13"
+          }
+        },
+        {
+          "id": "04016018",
+          "taxonomy": "iptc-subjectcode",
+          "level": 3,
+          "score": 0.23,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04016018",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04016000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": [
+          {
+            "count": 0,
+            "fetched_at": "2019-08-04T00:14:31Z"
+          },
+          {
+            "count": 0,
+            "fetched_at": "2019-08-03T18:19:08Z"
+          },
+          {
+            "count": 0,
+            "fetched_at": "2019-08-03T09:24:45Z"
+          }
+        ]
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.marketbeat.com/logos/ao-smith-logo.jpg",
+          "format": "JPEG",
+          "content_length": 12929,
+          "width": 500,
+          "height": 133
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.952496
+        },
+        "body": {
+          "polarity": "neutral",
+          "score": 0.943566
+        }
+      },
+      "language": "en",
+      "published_at": "2019-08-03T07:15:26Z",
+      "links": {
+        "permalink": "https://www.tickerreport.com/banking-finance/4497288/analysts-offer-predictions-for-a-o-smith-corps-q3-2019-earnings-nyseaos.html",
+        "related_stories": "/related_stories?story_id=21466483",
+        "coverages": "/coverages?story_id=21466483",
+        "clusters": "/clusters?id[]=4992716"
+      },
+      "clusters": [
+        4992716
+      ],
+      "translations": {}
+    }
+  ],
+}
