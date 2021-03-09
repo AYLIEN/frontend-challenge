@@ -32,7 +32,6 @@ Calling the API: https://docs.aylien.com/newsapi/#calling-the-api
 Using our Swagger definition with Postman (optional): https://docs.aylien.com/newsapi/#testing-the-news-api-with-postman
 
 ## Notes
-We would like you to identify the required tasks and provide a time estimation for these tasks before you start working on them. If you can split these tasks into smaller items, please also share those. It’s up to you how much time you invest, but keep in mind that we expect a meaningful contribution and also that it should be possible to review your solution in a reasonable amount of time, so please provide instructions on how to get up and running with your solution and test it. Your solution is expected as a zip file, but please also include your .git directory — we are interested in your development steps, not just the end result.
+Before starting the challenge, we would also like you to identify the required steps and provide a time estimate for these. If you can split these tasks into smaller items, please also share these. It’s up to you how much time you invest, but keep in mind that we expect a meaningful contribution and also that it should be possible to review your solution in a reasonable amount of time, so please provide instructions on how to get up and running with your solution and test it. Your solution is expected as a zip file, but please also include your .git directory — we are interested in your development steps, not just the end result.
 
 We forged this exercise with great care and enthusiasm. Even if you decide not to submit your solution, we would appreciate your feedback. What was the most enjoyable part? What was unreasonably annoying? Let us know so that we can improve.
-
