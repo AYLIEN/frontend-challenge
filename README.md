@@ -1,6 +1,6 @@
 # Frontend Challenge
 
-The purpose of this challenge is to evaluate your knowledge in the domain of front-end development. We expect you to build an Entities search application using AYLIEN News API. Besides, we would like you to write some tests. We are looking for a readable, easy-to-understand code that follows best practices and design patterns.
+The purpose of this challenge is to evaluate your knowledge in the domain of front-end development. We expect you to build an Entities search application using AYLIEN News API. We are looking for a readable, easy-to-understand code that follows best practices and design patterns.
 
 ## The challenge
 We need you to develop a Client (UI) architecture that allows users to search among entities and see related stories at the bottom of the search bar.
