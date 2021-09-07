@@ -12,7 +12,7 @@ We need you to develop a Client (UI) architecture that allows users to search am
 ### Description
 For this project, you will provide a search bar that allows users to search via entities using the `/autocomplete` endpoint and display related stories using the `/stories` endpoint.
 
-We :heart: React and we already created a boilerplate project using [Create React App](https://create-react-app.dev/). Feel free to add any extra depencency that normally would be necessary or would make an engineers life easier. The prototype is just a suggestion — you have complete creative freedom!
+We :heart: React and we already created a boilerplate project using [Create React App](https://create-react-app.dev/). Feel free to add any extra depencency that normally would be necessary or would make an engineer's life easier. The prototype is just a suggestion — you have complete creative freedom!
 
 
 ## Required problems to resolve:
@@ -23,13 +23,16 @@ We :heart: React and we already created a boilerplate project using [Create Reac
   5. Bonus: Deliver e2e tests using Cypress.
 
 ### AC:
-  * Application home page contains a search bar that let's a user type text in it (look at the simple design below).
-  * Once text is provided into search bar, it'll fetch autocomplete results and present them in a selectable dropdown.
-  * Selected entity from a dropdown replace provided text in the search bar.
-  * Clicking search button fetch stories using news-api with provided entity in the search bar.
+  * Application home page contains a search bar that allows user to type text in it (look at the simple design below).
+  * Clicking search button fetches stories using news-api with provided text in the search bar.
   * Fetched data is presented as a list of stories below the search bar (look at the simple desing below).
-  * Whole application should run without any errors following happy.
+  * Whole application should run without any errors following happy flow.
   * Documentation provided in the readme should be sufficient to run the application locally on a PC.
+
+  * Nice to have: typed text in the search bar is triggering autocompletes api
+  * Nice to have: autocomplete results are presented in the selectable dropdown
+  * Nice to have: selected entity from a dropdown replaces content of the search bar
+  * Nice to have: entity in the search bar is used to fetch stories
 
 <p align="center">
   <img src="https://github.com/AYLIEN/frontend-challenge/blob/master/prototype.png?raw=true">
